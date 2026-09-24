@@ -1,1 +1,2 @@
-print("sting")
+print("sting new")
+
