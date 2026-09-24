@@ -1,2 +1,1 @@
-print("hello string")
-
+print("sting")
